@@ -14,8 +14,8 @@ const AboutSection = () => {
 
   const testimonials = [
   {
-    text: "Wow, so glad I didn't listen to negative reviews.Absolutely amazing job done. 1st class service, communication and quality work at a fantastic price, answered any questions promptly.100% use again and highly recommend. 5* plus.",
-    name: "Amy Mccarty",
+    text: "Ian was great – punctual, easy to deal with and very clear in communication. He did a 5-year dual layer ceramic coating and single stage paint correction on my Alpine White BMW, and the finish looks amazing. If I get another new car, I’ll definitely go back to Ian. Highly recommended!",
+    name: "HENKE LOS",
   },
 
 ]
